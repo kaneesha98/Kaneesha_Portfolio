@@ -100,7 +100,7 @@ const Home=()=>{
             <Card.Text>
             <span style={{"font-family": "'Montserrat', 'sans-serif'"}}>Software Engineer Intern</span>
             </Card.Text>
-            <Button variant="primary" href="/Kaneesha_Portfolio/GEP"><span style={{"font-family": "'Pattaya', 'sans-serif'"}}>More Information</span></Button>
+            <Button variant="primary" href="/Kaneesha_Portfolio/#/GEP"><span style={{"font-family": "'Pattaya', 'sans-serif'"}}>More Information</span></Button>
         </Card.Body>
         </Card>
         </div>
