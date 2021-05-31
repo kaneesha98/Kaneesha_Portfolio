@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Kaneesha_Portfolio/static/css/main.9cd8e07f.chunk.css",
+    "main.js": "/Kaneesha_Portfolio/static/js/main.4c518b08.chunk.js",
+    "main.js.map": "/Kaneesha_Portfolio/static/js/main.4c518b08.chunk.js.map",
+    "runtime-main.js": "/Kaneesha_Portfolio/static/js/runtime-main.2c3a4187.js",
+    "runtime-main.js.map": "/Kaneesha_Portfolio/static/js/runtime-main.2c3a4187.js.map",
+    "static/js/2.e8b81c97.chunk.js": "/Kaneesha_Portfolio/static/js/2.e8b81c97.chunk.js",
+    "static/js/2.e8b81c97.chunk.js.map": "/Kaneesha_Portfolio/static/js/2.e8b81c97.chunk.js.map",
+    "index.html": "/Kaneesha_Portfolio/index.html",
+    "static/css/main.9cd8e07f.chunk.css.map": "/Kaneesha_Portfolio/static/css/main.9cd8e07f.chunk.css.map",
+    "static/js/2.e8b81c97.chunk.js.LICENSE.txt": "/Kaneesha_Portfolio/static/js/2.e8b81c97.chunk.js.LICENSE.txt",
+    "static/media/42 Silicon Valley.f856184a.png": "/Kaneesha_Portfolio/static/media/42 Silicon Valley.f856184a.png",
+    "static/media/GEP.1fe87928.png": "/Kaneesha_Portfolio/static/media/GEP.1fe87928.png",
+    "static/media/GEP1.507c985b.png": "/Kaneesha_Portfolio/static/media/GEP1.507c985b.png",
+    "static/media/GEP2.34bbe571.png": "/Kaneesha_Portfolio/static/media/GEP2.34bbe571.png",
+    "static/media/GEP3.5af680d0.png": "/Kaneesha_Portfolio/static/media/GEP3.5af680d0.png",
+    "static/media/P11.1b9dc9ee.png": "/Kaneesha_Portfolio/static/media/P11.1b9dc9ee.png",
+    "static/media/P12.416cbf08.png": "/Kaneesha_Portfolio/static/media/P12.416cbf08.png",
+    "static/media/P13.2e52e70a.png": "/Kaneesha_Portfolio/static/media/P13.2e52e70a.png",
+    "static/media/P14.48de79bc.png": "/Kaneesha_Portfolio/static/media/P14.48de79bc.png",
+    "static/media/P41.988b81b8.png": "/Kaneesha_Portfolio/static/media/P41.988b81b8.png",
+    "static/media/P42.10c98aea.png": "/Kaneesha_Portfolio/static/media/P42.10c98aea.png",
+    "static/media/P43.46d6ef46.png": "/Kaneesha_Portfolio/static/media/P43.46d6ef46.png",
+    "static/media/P44.cc5df6d9.png": "/Kaneesha_Portfolio/static/media/P44.cc5df6d9.png",
+    "static/media/P45.3206c593.png": "/Kaneesha_Portfolio/static/media/P45.3206c593.png",
+    "static/media/Profile.c5145589.jpg": "/Kaneesha_Portfolio/static/media/Profile.c5145589.jpg",
+    "static/media/Publication1.79cd1bb6.pdf": "/Kaneesha_Portfolio/static/media/Publication1.79cd1bb6.pdf",
+    "static/media/Publication2.e267a5b2.pdf": "/Kaneesha_Portfolio/static/media/Publication2.e267a5b2.pdf",
+    "static/media/SJSU.a87e71a0.jpg": "/Kaneesha_Portfolio/static/media/SJSU.a87e71a0.jpg",
+    "static/media/VCP1.2fbab2c6.png": "/Kaneesha_Portfolio/static/media/VCP1.2fbab2c6.png",
+    "static/media/Virtusa Corporation.e9fef4c5.png": "/Kaneesha_Portfolio/static/media/Virtusa Corporation.e9fef4c5.png",
+    "static/media/svnit.86c161ca.png": "/Kaneesha_Portfolio/static/media/svnit.86c161ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c3a4187.js",
+    "static/js/2.e8b81c97.chunk.js",
+    "static/css/main.9cd8e07f.chunk.css",
+    "static/js/main.4c518b08.chunk.js"
+  ]
+}
