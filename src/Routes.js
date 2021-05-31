@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter,Switch,Route} from 'react-router-dom';
+import {HashRouter,Switch,Route} from 'react-router-dom';
 import GEP from './components/GEP';
 import Home from './components/Home';
 import P1 from './components/P1';
@@ -11,7 +11,7 @@ import VC from './components/VC';
 import VCP from './components/VCP';
 
 const Routes=()=>{
-    return(<BrowserRouter>
+    return(<HashRouter>
         <Switch>
             <Route path="/Kaneesha_Portfolio/" exact component={Home} />
             <Route path="/Kaneesha_Portfolio/GEP" exact component={GEP} />
@@ -23,6 +23,6 @@ const Routes=()=>{
             <Route path="/Kaneesha_Portfolio/Project4" exact component={P4} />
             <Route path="/Kaneesha_Portfolio/VC/Project" exact component={VCP} />
         </Switch>
-    </BrowserRouter>)
+    </HashRouter>)
 }
 export default Routes;
