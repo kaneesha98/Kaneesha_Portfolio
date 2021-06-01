@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Kaneesha_Portfolio/static/css/main.9cd8e07f.chunk.css",
-    "main.js": "/Kaneesha_Portfolio/static/js/main.76df1705.chunk.js",
-    "main.js.map": "/Kaneesha_Portfolio/static/js/main.76df1705.chunk.js.map",
+    "main.js": "/Kaneesha_Portfolio/static/js/main.f584d21a.chunk.js",
+    "main.js.map": "/Kaneesha_Portfolio/static/js/main.f584d21a.chunk.js.map",
     "runtime-main.js": "/Kaneesha_Portfolio/static/js/runtime-main.2c3a4187.js",
     "runtime-main.js.map": "/Kaneesha_Portfolio/static/js/runtime-main.2c3a4187.js.map",
-    "static/js/2.b704df4e.chunk.js": "/Kaneesha_Portfolio/static/js/2.b704df4e.chunk.js",
-    "static/js/2.b704df4e.chunk.js.map": "/Kaneesha_Portfolio/static/js/2.b704df4e.chunk.js.map",
+    "static/js/2.46e8cb9a.chunk.js": "/Kaneesha_Portfolio/static/js/2.46e8cb9a.chunk.js",
+    "static/js/2.46e8cb9a.chunk.js.map": "/Kaneesha_Portfolio/static/js/2.46e8cb9a.chunk.js.map",
     "index.html": "/Kaneesha_Portfolio/index.html",
     "static/css/main.9cd8e07f.chunk.css.map": "/Kaneesha_Portfolio/static/css/main.9cd8e07f.chunk.css.map",
-    "static/js/2.b704df4e.chunk.js.LICENSE.txt": "/Kaneesha_Portfolio/static/js/2.b704df4e.chunk.js.LICENSE.txt",
+    "static/js/2.46e8cb9a.chunk.js.LICENSE.txt": "/Kaneesha_Portfolio/static/js/2.46e8cb9a.chunk.js.LICENSE.txt",
     "static/media/42 Silicon Valley.f856184a.png": "/Kaneesha_Portfolio/static/media/42 Silicon Valley.f856184a.png",
     "static/media/GEP.1fe87928.png": "/Kaneesha_Portfolio/static/media/GEP.1fe87928.png",
     "static/media/GEP1.507c985b.png": "/Kaneesha_Portfolio/static/media/GEP1.507c985b.png",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2c3a4187.js",
-    "static/js/2.b704df4e.chunk.js",
+    "static/js/2.46e8cb9a.chunk.js",
     "static/css/main.9cd8e07f.chunk.css",
-    "static/js/main.76df1705.chunk.js"
+    "static/js/main.f584d21a.chunk.js"
   ]
 }
