@@ -35,7 +35,7 @@ const VC=()=>{
             <li style={{"font-family": "'Montserrat', 'sans-serif'"}}>Hands-on experience with Amazon Web Services and GOOGLE cloud under supervision from employees </li>
             
         </ul>
-        <Button variant="primary" href="/Kaneesha_Portfolio/VC/Project"><span style={{"font-family": "'Pattaya', 'sans-serif'"}}>More Information On Project</span></Button>
+        <Button variant="primary" href="/Kaneesha_Portfolio_VC_Project"><span style={{"font-family": "'Pattaya', 'sans-serif'"}}>More Information On Project</span></Button>
         <hr></hr>
         <Footer/>
     </div>)
