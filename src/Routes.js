@@ -14,14 +14,14 @@ const Routes=()=>{
     return(<HashRouter>
         <Switch>
             <Route path="/Kaneesha_Portfolio/" exact component={Home} />
-            <Route path="/Kaneesha_Portfolio/GEP" exact component={GEP} />
-            <Route path="/Kaneesha_Portfolio/VC" exact component={VC} />
-            <Route path="/Kaneesha_Portfolio/SV" exact component={SV} />
-            <Route path="/Kaneesha_Portfolio/Project1" exact component={P1} />
-            <Route path="/Kaneesha_Portfolio/Project2" exact component={P2} />
-            <Route path="/Kaneesha_Portfolio/Project3" exact component={P3} />
-            <Route path="/Kaneesha_Portfolio/Project4" exact component={P4} />
-            <Route path="/Kaneesha_Portfolio/VC/Project" exact component={VCP} />
+            <Route path="/Kaneesha_Portfolio_GEP" exact component={GEP} />
+            <Route path="/Kaneesha_Portfolio_VC" exact component={VC} />
+            <Route path="/Kaneesha_Portfolio_SV" exact component={SV} />
+            <Route path="/Kaneesha_Portfolio_Project1" exact component={P1} />
+            <Route path="/Kaneesha_Portfolio_Project2" exact component={P2} />
+            <Route path="/Kaneesha_Portfolio_Project3" exact component={P3} />
+            <Route path="/Kaneesha_Portfolio_Project4" exact component={P4} />
+            <Route path="/Kaneesha_Portfolio_VC_Project" exact component={VCP} />
         </Switch>
     </HashRouter>)
 }
