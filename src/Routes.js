@@ -9,9 +9,10 @@ import P4 from './components/P4';
 import SV from './components/SV';
 import VC from './components/VC';
 import VCP from './components/VCP';
-import {useRoutes} from 'hookrouter';
+
 
 const Routes=()=>{
+    return(
     <BrowserRouter>
         <Switch>
             <Route path="/" exact component={Home} />
@@ -24,6 +25,6 @@ const Routes=()=>{
             <Route path="/Kaneesha_Portfolio_Project4" exact component={P4} />
             <Route path="/Kaneesha_Portfolio_VC_Project" exact component={VCP} />
         </Switch>
-    </BrowserRouter>
+    </BrowserRouter>)
 }
 export default Routes;
