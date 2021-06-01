@@ -13,7 +13,7 @@ import VCP from './components/VCP';
 const Routes=()=>{
     return(<HashRouter>
         <Switch>
-            <Route path="/Kaneesha_Portfolio/" exact component={Home} />
+            <Route path="/" exact component={Home} />
             <Route path="/Kaneesha_Portfolio_GEP" exact component={GEP} />
             <Route path="/Kaneesha_Portfolio_VC" exact component={VC} />
             <Route path="/Kaneesha_Portfolio_SV" exact component={SV} />
