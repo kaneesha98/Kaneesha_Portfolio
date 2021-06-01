@@ -1,5 +1,5 @@
 import React from 'react';
-import {HashRouter,Switch,Route} from 'react-router-dom';
+import {BrowserRouter,Switch,Route} from 'react-router-dom';
 import GEP from './components/GEP';
 import Home from './components/Home';
 import P1 from './components/P1';
@@ -11,32 +11,19 @@ import VC from './components/VC';
 import VCP from './components/VCP';
 import {useRoutes} from 'hookrouter';
 
-const routes = {
-    '/': () => <Home/>,
-    '/Kaneesha_Portfolio_GEP': () => <GEP />,
-    '/Kaneesha_Portfolio_VC': () => <VC />,
-    '/Kaneesha_Portfolio_SV': () => <SV />,
-    '/Kaneesha_Portfolio_Project1': () => <P1 />,
-    '/Kaneesha_Portfolio_Project2': () => <P2 />,
-    '/Kaneesha_Portfolio_Project3': () => <P3 />,
-    '/Kaneesha_Portfolio_Project4': () => <P4 />,
-    '/Kaneesha_Portfolio_VC_Project': () => <VCP />,
-};
-
 const Routes=()=>{
-    const routeResult = useRoutes(routes);
-    
-    return routeResult;
+    <BrowserRouter>
+        <Switch>
+            <Route path="/" exact component={Home} />
+            <Route path="/Kaneesha_Portfolio_GEP" exact component={GEP} />
+            <Route path="/Kaneesha_Portfolio_SV" exact component={SV} />
+            <Route path="/Kaneesha_Portfolio_VC" exact component={VC} />
+            <Route path="/Kaneesha_Portfolio_Project1" exact component={P1} />
+            <Route path="/Kaneesha_Portfolio_Project2" exact component={P2} />
+            <Route path="/Kaneesha_Portfolio_Project3" exact component={P3} />
+            <Route path="/Kaneesha_Portfolio_Project4" exact component={P4} />
+            <Route path="/Kaneesha_Portfolio_VC_Project" exact component={VCP} />
+        </Switch>
+    </BrowserRouter>
 }
 export default Routes;
-
-// const Routes=()=>{
-//     return (
-//         <HashRouter>
-    
-//             <Route exact path="/" component={Home} />
-//             <Route path="/Kaneesha_Portfolio_GEP" component={GEP} />
-//         </HashRouter>
-//       );
-//     }
-//     export default Routes;
