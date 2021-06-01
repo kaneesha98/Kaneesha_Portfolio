@@ -32,7 +32,7 @@ const GEP=()=>{
         <hr></hr>
         <br />
         <div >
-        <h3  style={{"font-family": "'Pattaya', 'sans-serif'"}} className="center">Optimization of Supplier Management Utility</h3><br />
+        <h3  style={{"font-family": "'Pattaya', 'sans-serif'","textAlign":"center"}}>Optimization of Supplier Management Utility</h3><br />
         <h5 style={{"font-family": "'Montserrat', 'sans-serif'"}}><span style={{"textDecorationLine":"underline"}}>Task 1 - Error filtering via New Relic</span></h5><br/>
         <h5 style={{"font-family": "'Montserrat', 'sans-serif'"}}>Addition of Custom Attribute feature for effective management of error logs</h5><br/>
         <ul>
