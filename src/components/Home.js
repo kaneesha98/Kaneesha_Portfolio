@@ -78,11 +78,11 @@ const Home=()=>{
         <h3 style={{"font-family": "'Pattaya', 'sans-serif'","textAlign":"center"}}>Skills</h3>
         <br />
         <div className="center">
-        <h6><span style={{"font-family": "'Montserrat', 'sans-serif'", "textDecorationLine":"underline"}}>Languages  </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   C , C++ , PHP , Phython</p><br />
-        <h6><span style={{"font-family": "'Montserrat', 'sans-serif'", "textDecorationLine":"underline"}}>FrontEnd  </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   HTML , CSS , Bootstrap , Angular</p><br />
-        <h6><span style={{"font-family": "'Montserrat', 'sans-serif'", "textDecorationLine":"underline"}}>Database  </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   SQL</p><br />
-        <h6><span style={{"font-family": "'Montserrat', 'sans-serif'", "textDecorationLine":"underline"}}>Version Control  </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   Git</p><br />
-        <h6><span style={{"font-family": "'Montserrat', 'sans-serif'", "textDecorationLine":"underline"}}>Others  </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   Ajax , Linux , Flask , VB testing , QC testing AWS Web Services</p><br />
+        <h6><span style={{"font-family": "'Pattaya', 'sans-serif'", "textDecorationLine":"underline"}}>Languages:  </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   C++, Python, C</p><br /><br />
+        <h6><span style={{"font-family": "'Pattaya', 'sans-serif'", "textDecorationLine":"underline"}}>Operating System:   </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   Linux (RedHat, Ubuntu, Fedora), Windows</p><br /><br />
+        <h6><span style={{"font-family": "'Pattaya', 'sans-serif'", "textDecorationLine":"underline"}}>Cloud Platforms:  </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   AWS (Route53, EBS, EC2, S3, RDS), GCP (VPC, Cloud DNS, GCE, IAM, Load Balancing, Cloud Armor, CDN)</p><br /><br />
+        <h6><span style={{"font-family": "'Pattaya', 'sans-serif'", "textDecorationLine":"underline"}}>Databases: </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>   MySQL, PostgreSQL, SQLite, phpMyAdmin</p><br /><br />
+        <h6><span style={{"font-family": "'Pattaya', 'sans-serif'", "textDecorationLine":"underline"}}>Web Technologies: </span></h6><p style={{"font-family": "'Montserrat', 'sans-serif'", "display":"inline"}}>    Jupyter Notebook, Flask,  HTML5, CSS, Bootstrap, Angular, Git, JSP, jQuery, XML, REST, SOAP, PHP</p><br /><br />
         </div>
         </section>
         <hr></hr>
